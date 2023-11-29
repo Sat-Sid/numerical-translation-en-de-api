@@ -1,0 +1,81 @@
+{
+    "numbers": [
+        {
+            "digit": 0,
+            "numerals": {
+                "eng": "Zero",
+                "de": "Null"
+            }
+        },
+        {
+            "digit": 1,
+            "numerals": {
+                "eng": "One",
+                "de": "Eins"
+            }
+        },
+        {
+            "digit": 2,
+            "numerals": {
+                "eng": "Two",
+                "de": "Zwei"
+            }
+        },
+        {
+            "digit": 3,
+            "numerals": {
+                "eng": "Three",
+                "de": "Drei"
+            }
+        },
+        {
+            "digit": 4,
+            "numerals": {
+                "eng": "Four",
+                "de": "Vier"
+            }
+        },
+        {
+            "digit": 5,
+            "numerals": {
+                "eng": "Five",
+                "de": "Fünf"
+            }
+        },
+        {
+            "digit": 6,
+            "numerals": {
+                "eng": "Six",
+                "de": "Sechs"
+            }
+        },
+        {
+            "digit": 7,
+            "numerals": {
+                "eng": "Seven",
+                "de": "Sieben"
+            }
+        },
+        {
+            "digit": 8,
+            "numerals": {
+                "eng": "Eight",
+                "de": "Acht"
+            }
+        },
+        {
+            "digit": 9,
+            "numerals": {
+                "eng": "Nine",
+                "de": "Neun"
+            }
+        },
+        {
+            "digit": 10,
+            "numerals": {
+                "eng": "Ten",
+                "de": "Zehn"
+            }
+        }
+    ]
+}
